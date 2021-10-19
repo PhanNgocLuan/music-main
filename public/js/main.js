@@ -31,7 +31,7 @@ const app = {
     isRepeat: false,
     songs: [
         {
-            name: "Den Vau",
+            name: "Nhac cua Den",
             singer: "Den Vau",
             path: "public/music/song1.mp3",
             image: "public/image/img1.jpg"
@@ -39,7 +39,7 @@ const app = {
         {
             name: "Son Tung",
             singer: "MTP",
-            path: "public/music/song14.mp3",
+            path: "public/music/htca.mp3",
             image: "public/image/img2.jpg"
         },
         {
