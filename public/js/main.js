@@ -39,7 +39,7 @@ const app = {
         {
             name: "Son Tung",
             singer: "MTP",
-            path: "public/music/song2.mp3",
+            path: "public/music/song14.mp3",
             image: "public/image/img2.jpg"
         },
         {
@@ -100,6 +100,12 @@ const app = {
             name: "HEKS",
             singer: "",
             path: "public/music/song12.mp3",
+            image: ""
+        },
+        {
+            name: "Nang ther",
+            singer: "",
+            path: "public/music/song13.mp3",
             image: ""
         },
     ],
