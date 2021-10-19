@@ -37,7 +37,7 @@ const app = {
             image: "public/image/img1.jpg"
         },
         {
-            name: "Son Tung",
+            name: "Hay trao cho anh",
             singer: "MTP",
             path: "public/music/htca.mp3",
             image: "public/image/img2.jpg"
